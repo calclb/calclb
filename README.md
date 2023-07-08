@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**calculub/calculub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student at UW-Madison. 
 
-Here are some ideas to get you started:
+### 💬 Languages
+- Rust
+- JS/TS
+- Java
+- C#
+- SQL (very soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 On the radar
+Here are the tools I'm keeping an eye on. I may pick them up soon.
+- Astro + Svelte
+- React
+- PostgreSQL
+
+### 📫 Contact
+Development opportunity? Mail me at jameson@calclb.dev.
