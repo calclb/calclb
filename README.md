@@ -7,7 +7,7 @@ I'm a computer science student at UW-Madison.
 - JS/TS
 - Java
 - C#
-- SQL (very soon!)
+- SQL
 
 ### 🔭 On the radar
 Here are the tools I'm keeping an eye on. I may pick them up soon.
