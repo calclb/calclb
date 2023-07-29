@@ -16,4 +16,4 @@ Here are the tools I'm keeping an eye on. I may pick them up soon.
 - PostgreSQL
 
 ### 📫 Contact
-Development opportunity? Mail me at jameson@calclb.dev.
+Development opportunity? Mail me at contact@calclb.dev.
