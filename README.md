@@ -11,9 +11,9 @@ I'm a computer science student at UW-Madison.
 
 ### 🔭 On the radar
 Here are the tools I'm keeping an eye on. I may pick them up soon.
-- Astro + Svelte
 - React
 - PostgreSQL
+- Svelte
 
 ### 📫 Contact
 Development opportunity? Mail me at contact@calclb.dev.
