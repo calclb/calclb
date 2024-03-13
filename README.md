@@ -5,18 +5,18 @@ Outside of programming, I like exercise and skygazing.
 
 ### 💬 Languages
 - Rust
-- JS/TS
+- JS/TS + React
 - Java
 - C#
 - SQL
 
 ### 📚 Currently learning
-- React
 - Next.js
+- PostgreSQL
+- C/C++
 
 ### 🔭 On the radar
 Here are the tools I'm keeping an eye on. I may pick them up soon.
-- PostgreSQL
 - Svelte + SvelteKit
 - Tauri
 
